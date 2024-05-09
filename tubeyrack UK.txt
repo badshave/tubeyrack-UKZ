@@ -1,0 +1,400 @@
+#EXTINF:-1,UK Zing
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6124
+#EXTINF:-1,UK Zee TV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6123
+#EXTINF:-1,UK Zee Cinema
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6122
+#EXTINF:-1,UK Yesterday HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6121
+#EXTINF:-1,UK Watch
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6120
+#EXTINF:-1,UK Viceland HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6119
+#EXTINF:-1,UK UTV Ireland
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6118
+#EXTINF:-1,UK Universal Channel HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6117
+#EXTINF:-1,UK True Movies
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6116
+#EXTINF:-1,UK True Entertainment
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6115
+#EXTINF:-1,UK True Drama
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6114
+#EXTINF:-1,UK True Crime
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6113
+#EXTINF:-1,UK Travel Channel
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6112
+#EXTINF:-1,UK TLC
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6111
+#EXTINF:-1,UK Tiny Pop
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6110
+#EXTINF:-1,UK TG4
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6109
+#EXTINF:-1,UK TCM HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6108
+#EXTINF:-1,UK Talking Pictures HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6107
+#EXTINF:-1,UK Syfy
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6106
+#EXTINF:-1,UK STV HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6105
+#EXTINF:-1,UK Star Plus
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6104
+#EXTINF:-1,UK Star Gold
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6103
+#EXTINF:-1,UK Star Bharat
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6102
+#EXTINF:-1,UK Sony Movies Action
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6101
+#EXTINF:-1,UK Sony Movies
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6100
+#EXTINF:-1,UK Sony Channel
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6099
+#EXTINF:-1,UK Sky Witness
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6098
+#EXTINF:-1,UK Sky Two
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6097
+#EXTINF:-1,UK Sky Sports Racing
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6096
+#EXTINF:-1,UK Sky Sports Premier League HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6095
+#EXTINF:-1,UK Sky Sports Premier League
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6094
+#EXTINF:-1,UK Sky Sports News HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6093
+#EXTINF:-1,UK Sky Sports News
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6092
+#EXTINF:-1,UK Sky Sports MIX
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6091
+#EXTINF:-1,UK Sky Sports Main Events HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6090
+#EXTINF:-1,UK Sky Sports Main Events
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6089
+#EXTINF:-1,UK Sky Sports Golf HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6088
+#EXTINF:-1,UK Sky Sports Golf
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6087
+#EXTINF:-1,UK Sky Sports Football HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6086
+#EXTINF:-1,UK Sky Sports Football
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6085
+#EXTINF:-1,UK Sky Sports F1 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6084
+#EXTINF:-1,UK Sky Sports F1
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6083
+#EXTINF:-1,UK Sky Sports Cricket HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6082
+#EXTINF:-1,UK Sky Sports Cricket
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6081
+#EXTINF:-1,UK Sky Sports Arena HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6080
+#EXTINF:-1,UK Sky Sports Action HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6079
+#EXTINF:-1,UK Sky Sports Action
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6078
+#EXTINF:-1,UK Sky Sport Racing HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6077
+#EXTINF:-1,UK Sky One
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6076
+#EXTINF:-1,UK Sky News
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6075
+#EXTINF:-1,UK Sky Nature
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6074
+#EXTINF:-1,UK Sky Cinema Thriller
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6073
+#EXTINF:-1,UK Sky Cinema Select
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6072
+#EXTINF:-1,UK Sky Cinema Scifi & Horror
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6071
+#EXTINF:-1,UK Sky Cinema Premier
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6070
+#EXTINF:-1,UK Sky Cinema Hits
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6069
+#EXTINF:-1,UK Sky Cinema Greats
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6068
+#EXTINF:-1,UK Sky Cinema Family
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6067
+#EXTINF:-1,UK Sky Cinema Drama
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6066
+#EXTINF:-1,UK Sky Cinema Comedy
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6065
+#EXTINF:-1,UK Sky Cinema Action & Adventure
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6064
+#EXTINF:-1,UK Sky Atlantic
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6063
+#EXTINF:-1,UK Sky Arts
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6062
+#EXTINF:-1,UK SKY 1 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6061
+#EXTINF:-1,UK Sab TV (SET)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6060
+#EXTINF:-1,UK S4C
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6059
+#EXTINF:-1,UK RTE One
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6058
+#EXTINF:-1,UK RTE News Now
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6057
+#EXTINF:-1,UK RTE Junior
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6056
+#EXTINF:-1,UK RTE 2 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6055
+#EXTINF:-1,UK RTE 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6054
+#EXTINF:-1,UK RTE 1 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6053
+#EXTINF:-1,UK Really
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6052
+#EXTINF:-1,UK Quest Red
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6051
+#EXTINF:-1,UK Quest
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6050
+#EXTINF:-1,UK PREMIER SPORTS 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6049
+#EXTINF:-1,UK PREMIER  SPORTS 1
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6048
+#EXTINF:-1,UK POP
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6047
+#EXTINF:-1,UK PICK
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6046
+#EXTINF:-1,UK Paramount
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6045
+#EXTINF:-1,UK NICKTOONS
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6044
+#EXTINF:-1,UK Nick Junior Too
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6043
+#EXTINF:-1,UK NICK JUNIOR
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6042
+#EXTINF:-1,UK Nat Geo Wild
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6041
+#EXTINF:-1,UK Nat Geo
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6040
+#EXTINF:-1,UK MUTV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6039
+#EXTINF:-1,UK MTV Rocks
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6038
+#EXTINF:-1,UK MTV Music
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6037
+#EXTINF:-1,UK MTV Hits
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6036
+#EXTINF:-1,UK MTV HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6035
+#EXTINF:-1,UK MTV Dance
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6034
+#EXTINF:-1,UK MTV Club
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6033
+#EXTINF:-1,UK MTV Classic
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6032
+#EXTINF:-1,UK MTV Base
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6031
+#EXTINF:-1,UK MTV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6030
+#EXTINF:-1,UK More 4 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6029
+#EXTINF:-1,UK London Live
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6028
+#EXTINF:-1,UK LIFETIME
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6027
+#EXTINF:-1,UK Life Time HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6026
+#EXTINF:-1,UK LFC TV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6025
+#EXTINF:-1,UK ITVBE
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6024
+#EXTINF:-1,UK Itv 4
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6023
+#EXTINF:-1,UK ITV 3
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6022
+#EXTINF:-1,UK ITV 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6021
+#EXTINF:-1,UK Investigation Discovery
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6020
+#EXTINF:-1,UK HORSE AND COUNTRY
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6019
+#EXTINF:-1,UK Horse and Country
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6018
+#EXTINF:-1,UK HORROR CHANNEL
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6017
+#EXTINF:-1,UK Home Health
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6016
+#EXTINF:-1,UK Home
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6015
+#EXTINF:-1,UK History HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6014
+#EXTINF:-1,UK History 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6013
+#EXTINF:-1,UK Good Food
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6012
+#EXTINF:-1,UK Gold
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6011
+#EXTINF:-1,UK FreeSports
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6010
+#EXTINF:-1,UK France 24 News
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6009
+#EXTINF:-1,UK Fox News HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6008
+#EXTINF:-1,UK Fox
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6007
+#EXTINF:-1,UK Food Network
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6006
+#EXTINF:-1,UK Film 4 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6005
+#EXTINF:-1,UK Film 4 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6004
+#EXTINF:-1,UK EuroSport 2 FHD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6003
+#EXTINF:-1,UK EuroSport 1 FHD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6002
+#EXTINF:-1,UK Eir Sport 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6001
+#EXTINF:-1,UK Eir Sport 1
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/6000
+#EXTINF:-1,UK EDEN HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5999
+#EXTINF:-1,UK E4
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5998
+#EXTINF:-1,UK E!
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5997
+#EXTINF:-1,UK Drama
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5996
+#EXTINF:-1,UK DMAX HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5995
+#EXTINF:-1,UK Disney XD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5994
+#EXTINF:-1,UK Discovery Turbo
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5993
+#EXTINF:-1,UK Discovery Science
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5992
+#EXTINF:-1,UK Discovery History
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5991
+#EXTINF:-1,UK Discovery
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5990
+#EXTINF:-1,UK Dave HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5989
+#EXTINF:-1,UK Crime & Investigation HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5988
+#EXTINF:-1,UK Comedy Central HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5987
+#EXTINF:-1,UK Comedy Central Extra
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5986
+#EXTINF:-1,UK Colors TV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5985
+#EXTINF:-1,UK Colors Rishtey
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5984
+#EXTINF:-1,UK Colors
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5983
+#EXTINF:-1,UK CNBC
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5982
+#EXTINF:-1,UK Chelsea TV HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5981
+#EXTINF:-1,UK Channel 5 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5980
+#EXTINF:-1,UK Channel 4 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5979
+#EXTINF:-1,UK Challenge
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5978
+#EXTINF:-1,UK CBS Reality
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5977
+#EXTINF:-1,UK CBS Justice
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5976
+#EXTINF:-1,UK CBS Action
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5975
+#EXTINF:-1,UK CBeebies HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5974
+#EXTINF:-1,UK CBBC
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5973
+#EXTINF:-1,UK Cartoonito
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5972
+#EXTINF:-1,UK CARTOONITO
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5971
+#EXTINF:-1,UK C ITV
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5970
+#EXTINF:-1,UK BT Sports Extra 4 (live match only)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5969
+#EXTINF:-1,UK BT Sports Extra 4 (live match only)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5968
+#EXTINF:-1,UK BT Sports Extra 3 (live match only)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5967
+#EXTINF:-1,UK BT Sports Extra 2 (live match only)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5966
+#EXTINF:-1,UK BT Sports Extra 1 (live match only)
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5965
+#EXTINF:-1,UK BT Sports ESPN HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5964
+#EXTINF:-1,UK BT Sports 3 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5963
+#EXTINF:-1,UK BT Sports 3 FHD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5962
+#EXTINF:-1,UK BT Sports 2 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5961
+#EXTINF:-1,UK BT Sports 2 FHD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5960
+#EXTINF:-1,UK BT Sports 1 HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5959
+#EXTINF:-1,UK BT Sports 1 FHD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5958
+#EXTINF:-1,UK Box Nation HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5957
+#EXTINF:-1,UK Box Nation
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5956
+#EXTINF:-1,UK Boomerang
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5955
+#EXTINF:-1,UK Bloomberg
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5954
+#EXTINF:-1,UK Blaze
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5953
+#EXTINF:-1,UK BET
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5952
+#EXTINF:-1,UK BBC World News
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5951
+#EXTINF:-1,UK BBC Two Scotland
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5950
+#EXTINF:-1,UK BBC Parliament
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5949
+#EXTINF:-1,UK BBC News HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5948
+#EXTINF:-1,UK BBC Alba
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5947
+#EXTINF:-1,UK BBC 3
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5946
+#EXTINF:-1,UK BBC 2
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5945
+#EXTINF:-1,UK BBC 1
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5944
+#EXTINF:-1,UK baby tv
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5943
+#EXTINF:-1,UK B4U Music
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5942
+#EXTINF:-1,UK B4U Movies
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5941
+#EXTINF:-1,UK At The Races
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5940
+#EXTINF:-1,UK Ary World
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5939
+#EXTINF:-1,UK Ary Qtv
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5938
+#EXTINF:-1,UK Animal Planet
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5937
+#EXTINF:-1,UK AMC
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5936
+#EXTINF:-1,UK Alibi
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5935
+#EXTINF:-1,UK AL JAZEERA HD
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5934
+#EXTINF:-1,UK AL JAZEERA
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5933
+#EXTINF:-1,UK ABP News
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5932
+#EXTINF:-1,UK Aastha
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5931
+#EXTINF:-1,UK Aaj Tak
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5930
+#EXTINF:-1,UK 5USA
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5929
+#EXTINF:-1,UK 5 STAR
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5928
+#EXTINF:-1,UK 5 Star
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5927
+#EXTINF:-1,UK 4SEVEN
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5926
+#EXTINF:-1,UK 4Music
+https://play.tubeyrack.com:443/ja.ney.s.u.w.a@googlemail.com/mufc19021878/5925
